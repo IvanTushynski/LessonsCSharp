@@ -10,6 +10,7 @@
 
         int a = 1;
 
+
         if (a == 1)
         {
             for (int i = 0; i < 20; i++)
@@ -36,4 +37,11 @@
             Console.Write("{0, 5}", byteValue);
         Console.WriteLine();
     }
+}
+
+class Human
+{
+    string name = "Vova";
+    int age = 10;
+    double heigh = 174.5;
 }
