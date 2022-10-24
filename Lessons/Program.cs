@@ -26,6 +26,9 @@
             Console.WriteLine("Dont Working!!!");
         }
 
+        Test test = new Test();
+        test.TestOne();
+
     }
 }
 
