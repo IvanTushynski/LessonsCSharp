@@ -6,7 +6,6 @@
         //Console.WriteLine("Hello, World!");
         //Console.ReadKey();
 
-        testRandom();
         DataVariables dataVariables = new DataVariables();
         dataVariables.OneTwo();
 
