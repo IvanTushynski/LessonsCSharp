@@ -6,7 +6,9 @@
     //decimal представляет число с десятичной дробью;
     //bool представляет значения "истина" или "ложь".
     string name = "Vova";
-    int age = 10;
+    int age = 999999999;
+    long age2 = 999999999999999999;
+    short age3 = 9999;
     double heigh = 174.5;
     bool liam = true;
     decimal liamTwo = 123.425m;

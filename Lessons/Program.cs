@@ -10,6 +10,8 @@
         dataVariables.OneTwo();
         Strings strings = new Strings();
         strings.StringWork();
+        ClassAndMethods classAndMethods = new ClassAndMethods();
+        classAndMethods.randomMethod();
 
         int a = 1;
 
