@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using Lessons;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -12,6 +14,10 @@
         strings.StringWork();
         ClassAndMethods classAndMethods = new ClassAndMethods();
         classAndMethods.randomMethod();
+        Scanner scanner = new Scanner();
+        scanner.scanner();
+        If_Else if_Else = new If_Else();
+        if_Else.taskRandomSubscription();
 
         int a = 1;
 
