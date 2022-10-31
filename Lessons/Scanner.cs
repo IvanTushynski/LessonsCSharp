@@ -14,10 +14,8 @@ namespace Lessons
             dataOne = Console.ReadLine();
             if(dataOne == "1")
             {
-                Console.WriteLine("Hello");
+                Console.WriteLine("Hello" +  " " + dataOne);
             }
         }
-
-
     }
 }

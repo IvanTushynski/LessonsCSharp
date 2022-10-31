@@ -1,6 +1,6 @@
-﻿public class Strings
+﻿internal class ProgramStrings
 {
-    public void StringWork()
+    private static void Main(string[] args)
     {
         string greeting = "Hello";
         string firstName = "Ivan";
@@ -16,5 +16,4 @@
         string projectName = "First-Project";
         Console.WriteLine($@"C:\Output\{projectName}\Data");
     }
-
 }

@@ -1,6 +1,6 @@
-﻿public class ClassAndMethods
+﻿internal class ProgramClassAndMethods
 {
-    public void randomMethod()
+    private static void Main(string[] args)
     {
         //рандомное число--------------------
         Random dice = new Random();
