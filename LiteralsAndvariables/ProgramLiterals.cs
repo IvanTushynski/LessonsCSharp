@@ -16,7 +16,7 @@
         decimal liamTwo = 123.425m;
 
 
-        void OneTwo()
+        void oneTwo()
         {
             Console.WriteLine(name + " string");
             Console.WriteLine(age + " int");
